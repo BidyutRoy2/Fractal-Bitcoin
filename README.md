@@ -1,6 +1,10 @@
 Fractal Bitcoin Node Setup Guide
 
 
+<p align="center">
+<img src='image.jpg' style="width:1200px;height:600px;">
+</p>
+
 
 
 **Website:** [Fractal Bitcoin](https://fractalbitcoin.io)
